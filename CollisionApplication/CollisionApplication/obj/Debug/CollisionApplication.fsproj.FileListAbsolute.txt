@@ -1,0 +1,9 @@
+c:\users\emanu\documents\visual studio 2015\Projects\CollisionApplication\CollisionApplication\bin\Debug\CollisionApplication.exe.config
+c:\users\emanu\documents\visual studio 2015\Projects\CollisionApplication\CollisionApplication\bin\Debug\CollisionApplication.XML
+c:\users\emanu\documents\visual studio 2015\Projects\CollisionApplication\CollisionApplication\bin\Debug\CollisionApplication.exe
+c:\users\emanu\documents\visual studio 2015\Projects\CollisionApplication\CollisionApplication\bin\Debug\CollisionApplication.pdb
+c:\users\emanu\documents\visual studio 2015\Projects\CollisionApplication\CollisionApplication\bin\Debug\FSharp.Core.dll
+c:\users\emanu\documents\visual studio 2015\Projects\CollisionApplication\CollisionApplication\bin\Debug\FSharp.Core.xml
+c:\users\emanu\documents\visual studio 2015\Projects\CollisionApplication\CollisionApplication\bin\Debug\it\FSharp.Core.resources.dll
+c:\users\emanu\documents\visual studio 2015\Projects\CollisionApplication\CollisionApplication\obj\Debug\CollisionApplication.exe
+c:\users\emanu\documents\visual studio 2015\Projects\CollisionApplication\CollisionApplication\obj\Debug\CollisionApplication.pdb

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<assembly><name>CollisionApplication</name></assembly>
+<members>
+<member name="T:LWPanel.LWPanel">
+<summary>
+ The Panel is a container; it can contain Controls in form of LWControls,
+ and manage the event for all of this (simulates event handler calls)
+</summary>
+</member>
+</members>
+</doc>
